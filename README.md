@@ -2,13 +2,15 @@
 --------------------------
 This is latest react-native-maps installation procedure both Platforms(iOS &amp; android)
 
-#Installation Procedure
+# Installation Procedure
 --------------------------
 First we need to check the react-native version 
 After we will check whether cocoapoads are having or not.
 If the cocoapods are having then we will start the steps.
 
-Step 01:  `npm install react-native-maps@0.19.0 --save`
+## Step 01:   install this below command
+-------------
+`npm install react-native-maps@0.19.0 --save`
 
 iOS Installation:
 --------------------------
