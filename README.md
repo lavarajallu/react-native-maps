@@ -79,14 +79,14 @@ Add your API key to your manifest file (android/app/src/main/AndroidManifest.xml
 ## Step 04: 
 ------------
 Add import com.airbnb.android.react.maps.MapsPackage; and new MapsPackage() in your MainApplication.java :
-`import com.airbnb.android.react.maps.MapsPackage;`    
-> add this command
+
+`import com.airbnb.android.react.maps.MapsPackage;`  
 
     @Override
     protected List<ReactPackage> getPackages() {
         return Arrays.<ReactPackage>asList(
                 new MainReactPackage(),
-                `new MapsPackage()`          
+               new MapsPackage()       
         );
     }
   
