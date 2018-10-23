@@ -86,7 +86,7 @@ Add import com.airbnb.android.react.maps.MapsPackage; and new MapsPackage() in y
     protected List<ReactPackage> getPackages() {
         return Arrays.<ReactPackage>asList(
                 new MainReactPackage(),
-                `new MapsPackage()`            ###### please add this command
+                `new MapsPackage()`          
         );
     }
   
