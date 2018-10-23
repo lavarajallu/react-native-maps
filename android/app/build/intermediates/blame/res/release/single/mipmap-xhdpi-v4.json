@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stellent/Documents/NewUpdates/Depoto/android/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/icon.png",
+        "source": "/Users/stellent/Documents/NewUpdates/Depoto/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/stellent/Documents/NewUpdates/Depoto/android/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/stellent/Documents/NewUpdates/Depoto/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

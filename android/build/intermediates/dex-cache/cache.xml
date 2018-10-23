@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/42a6a2f9e1be92d107c77af8621f6c667e367ff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_6666e833423007eb8d1fd13f9ae5f10c0e6f5a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/ace27c3af18482c5750966e32d1da952496c745f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_15f7170979aee84f831f24c823d01490cee65196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/b80bf3bed2c4371c3998957b4bdec297005a7b24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_89d88bc18181f56590a940bc2bcd3811f62e1d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9265957389f195d84fd2e3ed54ee1c430247c8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/51bc63f0a68c4b6c384d86600e390bff981e5a92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_562e2ed8797c420aa481423c15a94dbb0326d0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/6d849bdf02ab380a05a246c2590df618362e312b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_69c2f13c4c87f207da8db02111ca41ab9b3cfd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/33e395dd9792b19c50c44d835d716aee3377eccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_fded21207d975bc1d2bed694362a94e6e3412ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/c000c1f90001a78bf5c0720d83b56a7466525f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_79944a1eefb50a9d08c982ab204a3ca06f00b592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/a57f815919a48e81bbf63baa846ca64c48e08a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_6c53111dabc2ba7f39da2eedd981d92fb255b7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9111800685d1acacbf5b8ec6e80daf3663494ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_49decba1db846260e42fdb9a7f663873223bc590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/9db2076e93b2393a43aee58bd8f4dd33a602cf07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_459a7e17cfde69a670b14a03e01b80cb202796d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/c71f031fb6948cf6a11fd42987fe1e464d6cde51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_33ad139e27cc091a180d200f5f51239588833b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/2feedd9e22d89d3079e3596ffb33c044a518b719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_25baf2721e6035db86700c4bf5efd93f81604e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/6827a8651d1ce4f42f9d778acd97831631a73246/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_b17271f4cb02f9e4628a8b336cf40394c5d93415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_378041975af7593be02453be425345620c1bc14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Depoto/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_15cbf7a47bc53e263808ab17c4a628957ee25a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f4f1c887ea0356b8719b625d859a811553901443/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_617fd322dc81fe3a2d3e9c8cb6a0dc18adfd8347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/a57f815919a48e81bbf63baa846ca64c48e08a2e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4d2a37a17a04ff547922efcb6ed2be27273963dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/471ee309203ad55107e957558645bda8cc937fa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_34a11c75d6d2b95ff8c26b5df5adbc01162f27c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4d121df1450a44e650aa8aab14c48298b5cba1bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f3c0b4e0275320e9e473be6bbf79d5d138e338de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_47e4165f466693850feb825562c01f2db02c221d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Depoto/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="80ee2b43aab08dadf0134bfe4ce71537dff1b173">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_c44db34555ccf0da90194f56b1eb3b8f31766342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4b4a65cee4360326235f15dd265271ee43973d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/4ecc921be629652a4cffe48a0d659b23c2598e40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_be820c9e9a498afadf392acd03036c1e8fe4aafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_b9f5f491ea4d3be0002604ab6a0b755903851b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_a6035e857116d3703ccc8c87374870438119455c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2e0e7fe83226098578be71d4d57714492b862739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/06543a76bf9914a28652a969f89ede2887743d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_ab3d2fc804f4d107fab02aab0bdb0ede13fc56a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Depoto/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_6b1694ecf3caa2fe443539cba52e67fba1f7f747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/12ba78a42aeaee9bfa12dd3f5fc1ce913510b001/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_4bcba665dbd801b8b4ff65fe4a6f3b09ba95e699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/68cd14c89c9477095f79fe07cd833117578f204d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/apple/Desktop/Depoto/android/app/build/intermediates/pre-dexed/debug/classes_0958333a75317afb81d2eecaf7a05f4fe6759ca8.jar" />
+    </item>
+
+</items>

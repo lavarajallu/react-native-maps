@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/f2d6db9d6eae9c1c26daf89deebe1d11/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/46285861bad7b0449738e938c8d2d048/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/f2d6db9d6eae9c1c26daf89deebe1d11/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/f2d6db9d6eae9c1c26daf89deebe1d11/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/f2d6db9d6eae9c1c26daf89deebe1d11/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/6cfcf82f5789373fabb82b6cdbf33612/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Depoto/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/76a0be1fbdf49aa5daad0593c75f4933/res/color/abc_hint_foreground_material_light.xml"
+    }
+]
