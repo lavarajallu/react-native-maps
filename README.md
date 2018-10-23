@@ -40,9 +40,7 @@ then we have get like // `AIzaSyBJOIpbWE1wC0M-dfx1v3iGMT2n5If0kzQ`
 
 
 # android Installation:
-------------------------
-
-Here 
+------------------------ 
 
 ## Step 01: Please follow and add these commands
 -----------
@@ -70,24 +68,25 @@ Add your API key to your manifest file (android/app/src/main/AndroidManifest.xml
 
 <application>
    <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
-  ```        > Please add this meta-data
-   <meta-data
-     android:name="com.google.android.geo.API_KEY"
-     android:value="Your Google maps API Key Here"/>
-  ```
+
+  ``` <meta-data
+        android:name="com.google.android.geo.API_KEY"
+       android:value="Your Google maps API Key Here"/>
+  ```   
 </application>
 
 
 ## Step 04: 
 ------------
 Add import com.airbnb.android.react.maps.MapsPackage; and new MapsPackage() in your MainApplication.java :
-`import com.airbnb.android.react.maps.MapsPackage;`    > add this command
-...
+`import com.airbnb.android.react.maps.MapsPackage;`    
+> add this command
+
     @Override
     protected List<ReactPackage> getPackages() {
         return Arrays.<ReactPackage>asList(
                 new MainReactPackage(),
-                `new MapsPackage()`    > add this command
+                `new MapsPackage()`            ###### please add this command
         );
     }
   
