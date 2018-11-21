@@ -59,15 +59,19 @@ dependencies {
   ...
   
   `
+  
     implementation 'com.google.android.gms:play-services-auth:15.0.0'
+    
     implementation(project(':react-native-maps')){
          exclude group: 'com.google.android.gms', module: 'play-services-base'
          exclude group: 'com.google.android.gms', module: 'play-services-maps'
      } 
      implementation 'com.google.android.gms:play-services-base:15.0.0'
+     
      implementation 'com.google.android.gms:play-services-maps:15.0.0'
      
-     `
+     
+   `
 }
 
 ## Step 03: 
